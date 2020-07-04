@@ -1,0 +1,22 @@
+h1{color: yellowgreen}
+*{border: solid}
+
+.title{
+    background-color: palegoldenrod;
+    display: flex;
+    justify-content: center;
+    border: solid palegoldenrod;
+}
+
+.title2{
+    background-color: palegoldenrod;
+    display: flex;
+    justify-content: center;
+    border: solid palegoldenrod;
+}
+
+.links{
+    background-color: palegoldenrod;
+    display: flex;
+    justify-content: space-evenly;
+}
